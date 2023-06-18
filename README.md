@@ -96,7 +96,7 @@ https://user-images.githubusercontent.com/3611928/152727802-102ec296-41c8-446d-9
 
 ## Testing
 
-### Included Default Testing
+### Included Default Tesfting
 
 We’ve included some tooling that helps us maintain these templates. This template currently uses:
 
